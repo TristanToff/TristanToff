@@ -30,7 +30,7 @@ Además de la programación, tengo una gran pasión por los juegos y el deporte.
 
 Si deseas colaborar en un proyecto, discutir sobre tecnología o simplemente charlar sobre videojuegos, no dudes en contactarme:
 
-- [LinkedIn]([tu-linkedin-aqui](https://www.linkedin.com/in/crisantos-nicol%C3%A1s-obiang-abeme-478b352b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+- [LinkedIn]([tu-linkedin-aqui](https://www.linkedin.com/in/crisantos-nicol%C3%A1s-obiang-abeme-478b352b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 - [Correo electrónico](crisantosnicolasobiangabeme@gmail.com)
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades que el futuro depara.
