@@ -1,10 +1,10 @@
 # Crisantos Nicolás Obiang Abeme
 
-¡Hola! Soy **Crisantos Nicolás Obiang Abeme**, pero en el mundo digital me conocen como **Tristán**. Soy un apasionado programador web y mobile con experiencia en el desarrollo de aplicaciones modernas y eficientes.
+¡Hola! Soy **Crisantos Nicolás Obiang Abeme**, pero en el mundo digital me conocen como **Tristán**. Soy un apasionado programador web y mobile fullstack con experiencia en el desarrollo de aplicaciones.
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador versátil que se especializa en el desarrollo web. Tengo experiencia trabajando con una variedad de lenguajes de programación y frameworks, lo que me permite abordar diferentes tipos de proyectos con confianza y creatividad.
+Soy especialista en el desarrollo web. Tengo experiencia trabajando con una variedad de lenguajes de programación y frameworks, lo que me permite abordar diferentes tipos de proyectos.
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -15,6 +15,7 @@ Soy un desarrollador versátil que se especializa en el desarrollo web. Tengo ex
   - C++
   - PHP
   - TypeScript
+  - Python
 
 - **Frameworks:**
   - Angular
@@ -24,7 +25,7 @@ Soy un desarrollador versátil que se especializa en el desarrollo web. Tengo ex
 
 ## 🎮 Intereses
 
-Además de la programación, tengo una gran pasión por los juegos y el deporte. Disfruto jugando al baloncesto, ajedrez y videojuegos, especialmente juegos de disparos en primera persona (FPS). Siempre estoy buscando nuevas formas de combinar mis intereses en tecnología y entretenimiento.
+Además de la programación, tengo una gran pasión por los juegos y el deporte. Disfruto jugando al baloncesto, ajedrez y videojuegos, especialmente juegos de disparos en primera persona (FPS).
 
 ## 📫 Conéctate conmigo
 
@@ -33,4 +34,4 @@ Si deseas colaborar en un proyecto, discutir sobre tecnología o simplemente cha
 - [LinkedIn](https://www.linkedin.com/in/crisantos-nicol%C3%A1s-obiang-abeme-478b352b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 - [Correo electrónico](crisantosnicolasobiangabeme@gmail.com)
 
-¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades que el futuro depara.
+¡Gracias por visitar mi perfil!
